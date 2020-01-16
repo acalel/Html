@@ -1,4 +1,6 @@
 # Html
 
 <h2>Aprendizaje en HTML</h2>
-empezaremos por las creaciones sencillas para luego empezar unas vistas mas complejas
+dentro de este material podemos encontrar el desarrollo que llevo hasta el momento de diversas paginas, las cuales por solicitud del cliente se han estado creando 
+
+
